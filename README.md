@@ -20,6 +20,7 @@ The repository is organized into the following main components.
 ├── Sampling Algorithms/
 ├── Graphic Plotter/
 ├── README.md
+├── REPRODUCIBILITY.md
 └── ...
 ```
 
