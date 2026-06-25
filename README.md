@@ -185,6 +185,7 @@ scenario_metrics.csv
 # Reproducing the Experiments
 
 The experiments can be reproduced using the provided experimental drivers.
+For a detailed description of the experimental setup and a complete guide to reproduce the results, please refer to **REPRODUCIBILITY.md**.
 
 ## Standard Experiments
 
