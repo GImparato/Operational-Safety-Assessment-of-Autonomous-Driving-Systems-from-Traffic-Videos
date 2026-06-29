@@ -1,4 +1,4 @@
-# Operational Safety Assessment of Autonomous Driving Systems from Traffic Videos
+# Beyond Failure Discovery: Estimating ADS Operational Collision Probability \\from Traffic Videos
 
 ## Overview
 
